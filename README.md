@@ -1,4 +1,4 @@
-This tool is meant for optimizing meshes in some commonly needed ways, with a focus on edges.  
+This tool written in Maya PyMel and the OpenMaya v2 API and is meant for optimizing meshes in some commonly useful ways.  
 
 
 <img width="283" height="342" alt="meshoptimizer" src="https://github.com/user-attachments/assets/c4dd1301-6c12-4f9a-a284-3486ed35342f" />
